@@ -1,35 +1,47 @@
 # Hi, I'm Krish Dange 👋
 
-B.Tech Artificial Intelligence & Data Analytics
-Indian Institute of Technology Madras
+B.Tech Artificial Intelligence & Data Analytics @ Indian Institute of Technology Madras
 
-## Areas of Interest
+![Research](https://img.shields.io/badge/Research-IJERT%202026-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Projects-green)
+![Analytics](https://img.shields.io/badge/Data%20Analytics-Dashboards-purple)
+![Systems](https://img.shields.io/badge/Systems-Programming-orange)
 
-- Machine Learning
-- Artificial Intelligence
-- Data Analytics
-- Information Retrieval
-- Systems Programming
+🔹 Co-author, IJERT 2026 Research Publication
+
+## Domains
+
+Machine Learning • Data Analytics • Information Retrieval • Systems Programming
+
+---
 
 ## Featured Projects
 
-🔹 Adaptive DiskANN
-Published research on graph-based ANN retrieval.
+* [Adaptive DiskANN](https://github.com/krishdange27/graphann) — Published Research in Approximate Nearest Neighbor Retrieval
+* [AI Agents](https://github.com/krishdange27/ai-agents) — Probabilistic Reasoning, Search & Reinforcement Learning
+* [Spoken Digit Recognition](https://github.com/krishdange27/spoken-digit-recognition-gmm-hmm) — GMM/HMM-Based Speech Recognition
+* [Data-Driven Analysis of Global Cinema Trends](https://github.com/krishdange27/Data-Driven-Analysis-of-Global-Cinema-Trends) — End-to-End Analytics & Dashboarding
+* [End-to-End Jack Compiler](https://github.com/krishdange27/end-to-end-jack-compiler) — Compiler Design & Systems Programming
 
-🔹 AI Agents
-Probabilistic reasoning, search, and reinforcement learning.
+---
 
-🔹 Spoken Digit Recognition
-GMM/HMM speech recognition from scratch.
+## Collaboration
 
-🔹 Data-Driven Analysis of Global Cinema Trends
-End-to-end analytics pipeline with dashboard and reporting.
+Most repositories contain future work, enhancement ideas, and research directions. If a project interests you, feel free to open an issue, discuss improvements, or submit a pull request.
 
-🔹 End-to-End Jack Compiler
-Complete compiler pipeline from Jack to Hack Assembly.
+I'm always open to learning, collaboration, and constructive feedback.
 
-## Links
+---
 
-LinkedIn : https://in.linkedin.com/in/krish-dange-iitm
-Resume : CV
-Google Scholar :
+## Connect With Me
+
+🔗 LinkedIn: https://linkedin.com/in/krish-dange-iitm
+
+📚 Research Publication:
+https://www.ijert.org/making-diskann-adaptive-navigation-aware-search-diversity-pruning-and-feedback-driven-graph-refinement-for-graph-based-ann-ijertv15is060328
+
+📧 Email: [krish.dange.iitm@gmail.com](mailto:krish.dange.iitm@gmail.com)
+
+---
+
+*"Building intelligent systems through research, analytics, and engineering."*
