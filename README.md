@@ -31,8 +31,6 @@ I'm always open to learning, collaboration, and constructive feedback.
 
 🔗 LinkedIn: https://linkedin.com/in/krish-dange-iitm
 
-📄 Resume: [Resume Link]
-
 📚 Research Publication:
 https://www.ijert.org/making-diskann-adaptive-navigation-aware-search-diversity-pruning-and-feedback-driven-graph-refinement-for-graph-based-ann-ijertv15is060328
 
