@@ -17,8 +17,9 @@ Machine Learning • Data Analytics • Information Retrieval • Systems Progra
 
 - [Adaptive DiskANN](https://github.com/krishdange27/graphann) — ANN Retrieval Research
 - [AI Agents](https://github.com/krishdange27/ai-agents) — Probabilistic Reasoning, Search & Reinforcement Learning
+- [The AI Shift](https://github.com/krishdange27/The-ai-shift) — Data-Driven Analysis of Generative AI's Impact
+- [Data-Driven Analysis of Global Cinema Trends](https://github.com/krishdange27/Data-Driven-Analysis-of-Global-Cinema-Trends) — End-to-End Data Engineering & Analytics
 - [Spoken Digit Recognition](https://github.com/krishdange27/spoken-digit-recognition-gmm-hmm) — GMM/HMM-Based Speech Recognition
-- [Data-Driven Analysis of Global Cinema Trends](https://github.com/krishdange27/Data-Driven-Analysis-of-Global-Cinema-Trends) — Analytics & Business Intelligence
 - [End-to-End Jack Compiler](https://github.com/krishdange27/end-to-end-jack-compiler) — Compiler Design & Systems Programming
 
 ## Collaboration
